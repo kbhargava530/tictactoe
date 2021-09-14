@@ -18,7 +18,7 @@ print("    box7 | box8 | box9")
 
 
 
-print ("hello, welcome to tictactoe. In this game, you are tyring to get three of your symbols in a row to beat your opponent. Good luck!")
+print ("Hello, welcome to tictactoe. In this game, you are trying to get three of your symbols in a row to beat your opponent. Good luck!")
 name1=input("You are player one and you will be placing X's on the board. What's your name?")
 print()
 name2=input("You are player two and you will be placing O's on the board. What's your name?")
